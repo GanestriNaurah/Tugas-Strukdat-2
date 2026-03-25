@@ -1,1 +1,1 @@
-# Tugas-Strukdat-2
+# Class Diagram Makanan Lebaran
